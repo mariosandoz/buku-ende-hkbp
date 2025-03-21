@@ -17,7 +17,7 @@ Website ini menyediakan informasi tentang Buku Ende HKBP yang dapat digunakan se
 ## Unduh Aplikasi
 Silakan unduh aplikasi **Buku Ende HKBP Offline** melalui tautan berikut:
 
-[Download APK](https://play.google.com/store/apps/details?id=com.mariosandoz.bukuende
+[Download APK](https://play.google.com/store/apps/details?id=com.mariosandoz.bukuende)
 
 ---
 
